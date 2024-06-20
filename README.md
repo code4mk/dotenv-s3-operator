@@ -6,7 +6,7 @@ kubebuilder init --domain code4mk.org --repo github.com/code4mk/dotenv-s3-operat
 ```
 
 ```bash
-kubebuilder create api --group secrets --version v1 --kind DotenvS3
+kubebuilder create api --group dot-env-s3 --version v1 --kind DotenvS3
 ```
 
 * https://chatgpt.com/c/fd66a3f7-fa31-4af3-9b91-ca61953a3365
